@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact  - Save Street Dogs</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Contact Us</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="how-to-help.html">How to Help</a></li>
+                <li><a href="success-stories.html">Success Stories</a></li>
+                <li><a href="contact.html">Contact </a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Created this website with a initiative to make something to the dog species  </h2>
+         <p>Nnnm23cc010</p>
+         <p>Nnnm23cc010</p>
+         <p>Ashwithashetty201@gmail.com</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Save Street Dogs | Contact at info@savestreetdogs.org</p>
+    </footer>
+</body>
+</html>
